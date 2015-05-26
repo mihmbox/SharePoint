@@ -19,7 +19,7 @@ Works only in IE(requires ActiveX) with Outlook.
  
 <div>
 <h2>Usage</h2>
-To use just oput links to specified scripts on your page: e.g. put in master page markup:
+Sharepoint 2013 master page file:
 <!--SPM:<SharePoint:ScriptLink language="javascript" name="~site/Style Library/send-docs-customaction.js" runat="server"/>-->
 <!--SPM:<SharePoint:ScriptLink language="javascript" name="~site/Style Library/send-docs-ribbon.js" runat="server"/>-->
 <!--SPM:<SharePoint:ScriptLink language="javascript" name="~site/Style Library/SendDocument.js" runat="server"/>-->
