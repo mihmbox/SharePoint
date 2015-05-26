@@ -1,7 +1,10 @@
 # SharePoint
 Usefull SharePoint JavaScript solutions
 
+<div>
 <b>Ribbon_UserCustomActions</b>
+</div>
+
 Files:
 SendDocument.js - Opens Outlook to send email with Attachments
 send-docs-customaction.js - User Custom Actions logic
