@@ -6,10 +6,12 @@ Usefull SharePoint JavaScript solutions
 </div>
 
 Files:
-SendDocument.js - Opens Outlook to send email with Attachments
-send-docs-customaction.js - User Custom Actions logic
-send-docs-ribbon.js - Ribbon operations
-send-docs-main.js -  Main function is here
+<ul>
+    <li><i>SendDocument.js</i> - Opens Outlook to send email with Attachments</li>
+    <li><i>send-docs-customaction.js</i> - User Custom Actions logic</li>
+    <li><i>send-docs-ribbon.js</i> - Ribbon operations</li>
+    <li><i>send-docs-main.js</i> -  Main function is here</li>
+</ul>
  
  
  Adds Ribbon/User Custom Action to send selected Documents as attachments.
