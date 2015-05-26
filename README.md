@@ -8,7 +8,7 @@ Usefull SharePoint JavaScript solutions
 Adds Ribbon/User Custom Action to send selected Documents as attachments.
 Works only in IE(requires ActiveX) with Outlook.
  
-<h2>Files<h2>
+<h2>Files</h2>
 <ul>
     <li><i>SendDocument.js</i> - Opens Outlook to send email with Attachments</li>
     <li><i>send-docs-customaction.js</i> - User Custom Actions logic</li>
